@@ -42,8 +42,7 @@ on:
   workflow_dispatch:
 
 
-jobs:
-  Trigger APIsec scan:
+jobs: Trigger APIsec scan:
     runs-on: ubuntu-latest
 
     steps:
